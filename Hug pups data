@@ -27,18 +27,3 @@
     "temperament": "Gentle, Loving, Alert",
     "image_url": "data not provided, this will need to be replaced"
   },
-  {
-    "name": "Lucy",
-    "age": 6,
-    "breed": "Bernese Mountain Dog",
-    "temperament": "Calm, Patient, Affectionate",
-    "image_url": "data not provided, this will need to be replaced"
-  },
-  {
-    "name": "Daisy",
-    "age": 4,
-    "breed": "Cavalier King Charles Spaniel",
-    "temperament": "Friendly, Quiet, Adaptable",
-    "image_url": "data not provided, this will need to be replaced"
-  }
-]
