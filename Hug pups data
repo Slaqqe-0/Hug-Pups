@@ -11,7 +11,7 @@
     "age": 3,
     "breed": "Golden Retriever",
     "temperament": "Friendly, Loyal, Playful",
-    "image_url": "data not provided, this will need to be replaced"
+    "image_url": "https://img.pexels-summerstock-333083.jpg"
   },
   {
     "name": "Max",
